@@ -5,7 +5,6 @@
   "private": true,
   "scripts": {
     "fix": "expo install --pnpm --fix",
-    "migrate": "npx --yes drizzle-kit generate",
     "dev": "expo run:android",
     "dev:web": "expo start -c --web",
     "dev:android": "expo start -c --android",
